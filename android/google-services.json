@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300298210293",
+    "project_id": "smartapptest-83d4c",
+    "storage_bucket": "smartapptest-83d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300298210293:android:a07a20f9492d50ab066ebc",
+        "android_client_info": {
+          "package_name": "com.test.smartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300298210293-jdclmtr50gqh9uv9v6jr207no1sjd1cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6Yvhn9dSJL0jxDDpDwTNJPb8OObfFek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300298210293-jdclmtr50gqh9uv9v6jr207no1sjd1cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
